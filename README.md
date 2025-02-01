@@ -49,10 +49,12 @@ I'm a web developer, here's what I work with:
 
 I'm always keen to expand my skillset. At the moment, I'm diving deeper into:
 
+- TypeScript
 - Node.js
 - SolidJS
 - Tailwind CSS
 - MongoDB
+- Supabase
 
 ---
 
