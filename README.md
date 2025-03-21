@@ -55,6 +55,8 @@ I'm always keen to expand my skillset. At the moment, I'm diving deeper into:
 - Tailwind CSS
 - MongoDB
 - Supabase
+- Java
+- Maven
 
 ---
 
