@@ -28,8 +28,7 @@ I'm a web developer, here's what I work with:
 ## 🛠️ Tools & Platforms
 
 ### IDEs
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Editor – Neovim](https://img.shields.io/badge/Editor-Neovim-green?logo=neovim&style=flat-square)
 
 ### Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
